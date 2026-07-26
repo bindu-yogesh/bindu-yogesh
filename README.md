@@ -4,57 +4,109 @@
 
 ### 💻 Software Developer • 🌐 Full Stack Developer • 🤖 AI Developer
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Code+%E2%80%A2+Learn+%E2%80%A2+Repeat;Full+Stack+Developer;AI+Developer;Always+Learning+New+Things" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Code+%E2%80%A2+Learn+%E2%80%A2+Repeat;Full+Stack+Developer;AI+Developer;Always+Building+Something+Awesome"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=bindu-yogesh&label=Profile+Views&color=ff69b4&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🌸 About Me
+# 🌸 About Me
 
-- 🎓 CSE Student
-- 💻 Passionate about Full Stack Development
-- 🤖 Learning AI & Machine Learning
-- 🚀 Solved **100+ LeetCode Problems**
-- 🌱 Currently improving my DSA and development skills
+🎓 CSE Student
+
+💻 Passionate about Full Stack Development
+
+🤖 Exploring Artificial Intelligence & Machine Learning
+
+📚 Solved **100+ LeetCode Problems**
+
+🚀 Building real-world projects
+
+🌱 Learning something new every day
+
+✨ Motto:
+
+> **Code • Learn • Repeat**
 
 ---
 
-## 💜 Tech Stack
+# 💜 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,javascript,react,nodejs,express,mongodb,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=express"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Featured Projects
 
-<div align="center">
+### 🤖 AI Resume Analyzer
+An AI-powered resume analyzer built using React, Node.js, MongoDB and Gemini AI.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bindu-yogesh&show_icons=true&theme=tokyonight&hide_border=true"/>
+### 🌾 Kisan Suvidha
+A digital platform connecting farmers and buyers.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bindu-yogesh&layout=compact&theme=tokyonight&hide_border=true"/>
+### 🎉 EventIQ
+Smart event management platform with QR attendance and AI features.
 
-</div>
+### 🎨 Drawing App
+A browser-based drawing application.
 
----
-
-## 🚀 Featured Projects
-
-- 🤖 AI Resume Analyzer
-- 🌾 Kisan Suvidha
-- 🎨 Drawing App
-- ♟️ Chess Game
-- 🎉 EventIQ
+### ♟ Chess Game
+A responsive chess game built using JavaScript.
 
 ---
 
-## 🌐 Connect With Me
+# 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Full Stack Development
+- AI & Machine Learning
+- System Design
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ 500+ LeetCode Problems
+- 🚀 Contribute to Open Source
+- 💼 Land a Software Internship
+- 🌍 Build impactful AI projects
+- ⭐ Grow as a Full Stack Developer
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -63,11 +115,11 @@
 </a>
 
 <a href="mailto:binduyogesh87@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/binduyogesh8317">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/binduyogesh8317">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </p>
@@ -76,6 +128,10 @@
 
 <div align="center">
 
-### ✨ Code • Learn • Repeat ✨
+## 💖 Thanks for Visiting!
+
+### ⭐ If you like my work, consider following me.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
 
 </div>
