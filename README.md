@@ -22,7 +22,7 @@
 
 🤖 Exploring Artificial Intelligence & Machine Learning
 
-📚 Solved **100+ LeetCode Problems**
+📚 Solved **200+ LeetCode Problems**
 
 🚀 Building real-world projects
 
