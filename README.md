@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Bindu Yogesh
 
-### 💻 Software Developer • 🌐 Full Stack Developer • 🤖 AI Developer
+### 💻 Software Developer • 🌐 Backend Developer • 🤖 AI Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Code+%E2%80%A2+Learn+%E2%80%A2+Repeat;Full+Stack+Developer;AI+Developer;Always+Building+Something+Awesome"/>
 
