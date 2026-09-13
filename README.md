@@ -18,7 +18,7 @@
 
 🎓 CSE Student
 
-💻 Passionate about Full Stack Development
+💻 Backend Developer 
 
 🤖 Exploring Artificial Intelligence & Machine Learning
 
