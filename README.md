@@ -79,8 +79,8 @@ A digital platform connecting farmers and buyers.
 ### 🎉 EventIQ
 Smart event management platform with QR attendance and AI features.
 
-### 🎨 Drawing App
-A browser-based drawing application.
+### Lynk
+Lynk is a multilingual Speech-to-Speech (STT/TTS) Android application that enables real-time voice communication across 10 Indian languages using Wi-Fi/Bluetooth connectivity.
 
 ### ♟ Chess Game
 A responsive chess game built using JavaScript.
