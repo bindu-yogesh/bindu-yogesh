@@ -90,9 +90,8 @@ A responsive chess game built using JavaScript.
 # 📚 Currently Learning
 
 - Data Structures & Algorithms
-- Full Stack Development
 - AI & Machine Learning
-- System Design
+- Operationg system 
 
 ---
 
