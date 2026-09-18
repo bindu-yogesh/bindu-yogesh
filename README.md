@@ -92,6 +92,7 @@ A responsive chess game built using JavaScript.
 - Data Structures & Algorithms
 - AI & Machine Learning
 - Operationg system 
+- computer networking 
 
 ---
 
