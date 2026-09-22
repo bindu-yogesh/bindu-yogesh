@@ -1,131 +1,160 @@
 <div align="center">
 
-# 👋 Hey, I'm **Bindu Yogesh**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12002F,50:3B176D,100:8A2BE2&height=220&section=header&text=Bindu%20Yogesh&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20Developer%20%7C%20AI%20Developer&descAlignY=58&descSize=18&animation=fadeIn"/>
 
-### 💻 Software Developer  •  ⚙️ Backend Developer  •  🤖 AI Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&width=700&lines=Code+%E2%80%A2+Learn+%E2%80%A2+Repeat;Building+Real-World+Projects;Exploring+AI+%26+Machine+Learning;Turning+Ideas+Into+Code;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=750&lines=Code+%E2%80%A2+Learn+%E2%80%A2+Repeat;Building+Real-World+Software;Backend+%7C+AI+%7C+Full+Stack;Turning+Ideas+Into+Products;Always+Learning.+Always+Building." />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=bindu-yogesh&label=PROFILE+VIEWS&color=bb86fc&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=bindu-yogesh&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/bindu-yogesh?label=FOLLOWERS&style=for-the-badge&color=6D28D9"/>
 
 <br><br>
 
 <a href="https://github.com/bindu-yogesh">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
-<a href="mailto:binduyogesh87@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+
 <a href="https://www.linkedin.com/in/binduyogesh8317/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=8A2BE2"/>
+</a>
+
+<a href="mailto:binduyogesh87@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=C084FC"/>
+</a>
+
+<a href="https://leetcode.com/u/binduyogesh/">
+<img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 </a>
 
 </div>
 
 ---
 
-## 🌸 About Me
+<div align="center">
 
-🎓 Computer Science Engineering Student
+## ✦ About Me
 
-💻 Focused on **Software & Backend Development**
+**Computer Science Engineering Student** building software, exploring AI,
+and solving problems one commit at a time.
 
-🤖 Exploring **Artificial Intelligence & Machine Learning**
+<br>
 
-🧠 Solved **200+ LeetCode Problems**
+💻 Software & Backend Development
+🤖 Artificial Intelligence & Machine Learning
+🧠 200+ LeetCode Problems Solved
+📱 Android Application Development
+🌱 Open Source & Continuous Learning
 
-🚀 Building practical, real-world applications
-
-🌱 Constantly learning, experimenting and improving
-
-> ### **Code • Learn • Repeat**
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# ⚡ Tech Arsenal
 
-### 👨‍💻 Languages
+<div align="center">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript"/>
-</p>
+### Languages
 
-### 🌐 Web & Backend
+<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,kotlin&theme=dark"/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express"/>
-</p>
+### Frontend & Backend
 
-### 🗄️ Databases & Tools
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express&theme=dark"/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode"/>
-</p>
+### Databases & Tools
 
-### 📱 Development & AI
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,androidstudio&theme=dark"/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,python"/>
-</p>
+### AI / ML
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark"/>
+
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
+<div align="center">
+
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 AI Resume Analyzer
+## 🤖 AI Resume Analyzer
 
-An AI-powered platform that analyzes resumes and provides intelligent insights to help improve job readiness.
+AI-powered resume analysis platform designed to provide intelligent insights and improve job readiness.
 
-**Tech Stack**
+**Stack**
 
 `React` `Node.js` `MongoDB` `Gemini AI`
 
+<br>
+
+<a href="https://github.com/bindu-yogesh">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌾 Kisan Suvidha
+## 🌾 Kisan Suvidha
 
-A digital platform designed to connect farmers and buyers while making agricultural services more accessible.
+A digital platform connecting farmers and buyers while making agricultural services easier to access.
 
-**Tech Stack**
+**Stack**
 
 `React` `Node.js` `MongoDB`
 
+<br>
+
+<a href="https://github.com/bindu-yogesh/kisan-suvidha">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </td>
 
 </tr>
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎉 EventIQ
+## 🎉 EventIQ
 
-A smart event management platform featuring QR-based attendance and AI-powered functionality.
+Smart event management platform featuring QR-based attendance and AI-powered functionality.
 
-**Tech Stack**
+**Stack**
 
 `React` `Node.js` `MongoDB` `AI`
 
+<br>
+
+<a href="https://github.com/bindu-yogesh">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📱 Lynk
+## 📱 Lynk
 
-A multilingual Android speech-to-speech application enabling real-time voice communication across **10 Indian languages** using Wi-Fi/Bluetooth connectivity.
+Multilingual speech-to-speech Android application enabling real-time communication across **10 Indian languages** through Wi-Fi/Bluetooth connectivity.
 
-**Tech Stack**
+**Stack**
 
-`Android` `Kotlin` `STT` `TTS` `Networking`
+`Kotlin` `Android` `STT` `TTS` `Networking`
+
+<br>
+
+<a href="https://github.com/bindu-yogesh">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
@@ -133,32 +162,46 @@ A multilingual Android speech-to-speech application enabling real-time voice com
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### ♟️ Chess Game
+## ♟️ Chess Game
 
-A browser-based chess game built with an interactive interface and JavaScript game logic.
+Interactive browser-based chess game with JavaScript-powered game logic.
 
-**Tech Stack**
+**Stack**
 
 `HTML` `CSS` `JavaScript`
 
+<br>
+
+<a href="https://github.com/bindu-yogesh">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💰 Expense Tracker
+## 📊 LeetCode Pattern Tracker
 
-A simple application designed to track expenses and provide a clearer view of personal spending.
+A tool for tracking solved problems and identifying DSA patterns during interview preparation.
 
-**Tech Stack**
+**Stack**
 
-`JavaScript` `HTML` `CSS`
+`JavaScript` `React`
+
+<br>
+
+<a href="https://github.com/bindu-yogesh">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -166,138 +209,153 @@ A simple application designed to track expenses and provide a clearer view of pe
 
 <div align="center">
 
-### 💻 LeetCode
+<a href="https://leetcode.com/u/binduyogesh/">
 
-<img src="https://img.shields.io/badge/200%2B-Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/200%2B%20LeetCode%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
+</a>
 
 <br><br>
 
-<a href="https://leetcode.com/u/binduyogesh/">
-<img src="https://img.shields.io/badge/LeetCode-bindu_yogesh-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+<img src="https://leetcard.jacoblin.cool/binduyogesh?theme=dark&font=Karma&ext=heatmap"/>
 
 </div>
 
-### 📚 Currently Practicing
+---
 
-* Data Structures & Algorithms
-* Arrays & Strings
-* Hashing
-* Two Pointers
-* Sliding Window
-* Binary Search
-* Stack & Queue
-* Recursion
-* Trees & Graphs
-* Dynamic Programming
+# 🔥 Maximum Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=bindu-yogesh&theme=dark&hide_border=true&background=0D1117&ring=8A2BE2&fire=C084FC&currStreakLabel=C084FC&sideLabels=C084FC&dates=9CA3AF&stroke=3B176D"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🔥%20MAXIMUM%20STREAK-55%20DAYS-8A2BE2?style=for-the-badge"/>
+
+<br><br>
+
+**Consistency beats intensity.**
+
+<br>
+
+`One Problem` → `One Commit` → `One Step Forward`
+
+</div>
 
 ---
 
-# 📖 Currently Learning
+# 📚 Current Focus
+
+<div align="center">
+
+|          Area          | Focus                                      |
+| :--------------------: | :----------------------------------------- |
+|       🧠 **DSA**       | Problem Solving • Algorithms • LeetCode    |
+|     ⚙️ **Backend**     | Node.js • Express • APIs • Databases       |
+|    🌐 **Full Stack**   | React • Backend • Application Architecture |
+|     📱 **Android**     | Kotlin • Jetpack Compose • Networking      |
+|      🤖 **AI/ML**      | Python • ML Fundamentals • AI Applications |
+| 💻 **CS Fundamentals** | OS • CN • DBMS • OOP                       |
+
+</div>
+
+---
+
+# 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/bindu-yogesh/bindu-yogesh/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
+
+</div>
+
+---
+
+# 🌌 Developer Journey
+
+<div align="center">
 
 ```text
-DSA
- ├── Problem Solving
- ├── Algorithms
- └── Competitive Programming
-
-Software Development
- ├── Full Stack Development
- ├── Backend Development
- └── Android Development
-
-Computer Science
- ├── Operating Systems
- ├── Computer Networks
- ├── DBMS
- └── OOP
-
-AI
- ├── Python
- ├── Machine Learning
- └── AI Applications
+             ┌───────────────────┐
+             │  Computer Science │
+             └─────────┬─────────┘
+                       ↓
+              ┌────────────────┐
+              │       DSA      │
+              └───────┬────────┘
+                      ↓
+             ┌──────────────────┐
+             │ Software         │
+             │ Development      │
+             └────────┬─────────┘
+                      ↓
+             ┌──────────────────┐
+             │ Backend & Full   │
+             │ Stack Engineering│
+             └────────┬─────────┘
+                      ↓
+             ┌──────────────────┐
+             │ AI & Machine     │
+             │ Learning         │
+             └────────┬─────────┘
+                      ↓
+             ┌──────────────────┐
+             │ Real-World       │
+             │ Products         │
+             └──────────────────┘
 ```
 
----
-
-# 🎯 2026 Goals
-
-| Goal                                      | Progress       |
-| ----------------------------------------- | -------------- |
-| 🧠 Solve 500+ LeetCode Problems           | 🔄 In Progress |
-| 🌐 Contribute to Open Source              | 🔄 In Progress |
-| 💼 Secure a Software Internship           | 🔄 In Progress |
-| 🤖 Build impactful AI projects            | 🔄 In Progress |
-| 🚀 Become a stronger Full Stack Developer | 🔄 In Progress |
+</div>
 
 ---
 
-# 📊 GitHub Stats
+# 🎯 2026 Mission
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bindu-yogesh&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=tokyonight" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bindu-yogesh&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" height="170"/>
+<img src="https://img.shields.io/badge/DSA-500%2B%20Problems-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20Source-Contribute-C084FC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Internship-Software%20Engineering-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Build%20Real%20Projects-9333EA?style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=bindu-yogesh&theme=tokyonight&hide_border=true" />
+**Build more. Learn deeper. Solve harder problems.**
 
 </div>
 
 ---
 
-# 🐍 Contribution Activity
+# 💭 Philosophy
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/bindu-yogesh/bindu-yogesh/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-# 🌱 What I'm Working Toward
-
-<div align="center">
-
-### Building → Learning → Solving → Improving
+### *"Don't just learn technology. Build with it."*
 
 <br>
 
-**Software Engineering**
-↓
-**Backend Development**
-↓
-**Artificial Intelligence**
-↓
-**Machine Learning**
-↓
-**Real-World Products**
+**Code** → **Learn** → **Build** → **Break** → **Fix** → **Repeat**
 
 </div>
 
 ---
 
-# 🌐 Let's Connect
+# 🤝 Let's Build Something
 
 <div align="center">
 
-<a href="https://github.com/bindu-yogesh">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+I'm always interested in building interesting projects,
+learning new technologies and collaborating with other developers.
+
+<br><br>
 
 <a href="mailto:binduyogesh87@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/LET'S%20CONNECT-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/binduyogesh8317/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/binduyogesh/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<a href="https://github.com/bindu-yogesh">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOS-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -306,12 +364,12 @@ AI
 
 <div align="center">
 
-### 💜 Thanks for visiting my profile!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:3B176D,100:12002F&height=140&section=footer&animation=fadeIn"/>
 
-**If you like my work, consider ⭐ starring my repositories and following my journey.**
+### 💜 Thanks for visiting
 
-<br>
+**Code • Learn • Repeat**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BB86FC&height=120&section=footer"/>
+<sub>Built with curiosity & ☕</sub>
 
 </div>
