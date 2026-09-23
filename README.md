@@ -63,7 +63,7 @@ A technology platform designed to provide useful digital assistance and informat
 
 `React` `JavaScript` `Backend APIs`
 
----
+----
 
 ### 🔗 Lynk
 
