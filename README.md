@@ -124,7 +124,7 @@ I regularly practice **Data Structures & Algorithms** and problem-solving patter
 
 ---
 
-## Connect
+## Connect with me 
 
 <div align="center">
 
