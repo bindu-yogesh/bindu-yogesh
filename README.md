@@ -37,7 +37,7 @@ I enjoy turning ideas into working products, understanding how systems work, and
 
 ---
 
-## Tech Stack
+## Tech Stack 
 
 <p align="center">
 
