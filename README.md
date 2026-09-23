@@ -113,7 +113,7 @@ I regularly practice **Data Structures & Algorithms** and problem-solving patter
 
 ---
 
-## 2026 Goals
+## 2026 Goals.  
 
 * Reach **500+ LeetCode problems**
 * Build impactful AI applications
