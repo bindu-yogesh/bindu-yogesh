@@ -1,155 +1,177 @@
-<div align="center">
+<h1 align="center">Hi, I'm Bindu Yogesh 👋</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:6D28D9&height=180&section=header&text=Bindu%20Yogesh&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&center=true&vCenter=true&width=850&lines=Computer+Science+Student+%7C+DSCE;C%2B%2B+%26+DSA+Learner;Android+%26+Backend+Developer;Exploring+AI%2FML;Building+Real-World+Projects;Aspiring+Software+Engineer" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1200&color=C084FC&center=true&vCenter=true&width=650&lines=Software+Developer;Backend+Developer;AI+Developer;Building+%7C+Learning+%7C+Improving"/>
+<p align="center">
+  <i>Code • Learn • Repeat</i>
+</p>
 
-<br>
-
-<a href="https://github.com/bindu-yogesh">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/binduyogesh8317/">
-<img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://leetcode.com/u/binduyogesh/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
-</a>
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bindu-yogesh&label=Profile+Views&color=4169e1&style=for-the-badge"/>
+</p>
 
 ---
 
 ## About Me
 
-I'm a Computer Science Engineering student interested in **software development, backend engineering, and artificial intelligence**.
+I am a **Computer Science Engineering student at Dayananda Sagar College of Engineering (DSCE), Bangalore**, passionate about software development, problem-solving, and building practical applications.
 
-I enjoy turning ideas into working products, understanding how systems work, and continuously improving my problem-solving skills.
-
-* 🎓 Computer Science Engineering student
-* 💻 Software & Backend Development
-* 🤖 AI / Machine Learning
-* 📱 Android Development
-* 🧩 **200+ LeetCode problems solved**
-* 🌱 Always learning and building
+* 💻 Building applications with **C++, Kotlin, JavaScript, and TypeScript**
+* 🧩 Strengthening **Data Structures & Algorithms**
+* 📱 Building **Android applications with Jetpack Compose**
+* ⚙️ Exploring **backend development and APIs**
+* 🤖 Exploring **AI/ML and intelligent applications**
+* 🚀 Building real-world projects to strengthen my engineering skills
+* 🎯 Aspiring to become a **Software Engineer**
 
 ---
 
-## Tech Stack 
+## Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,html,css,react,nodejs,express,mongodb,mysql,kotlin,androidstudio,git,github,vscode&perline=8"/>
-
+  <img src="https://skillicons.dev/icons?i=cpp,python,kotlin,java,html,css,js,ts,react,nodejs,express,mongodb,mysql,androidstudio,git,github,vscode" />
 </p>
 
 ---
 
-## Selected Projects
+## Featured Projects
 
-### 🤖 AI Resume Analyzer
+<table>
+<tr>
+<td width="50%">
 
-An AI-powered application that analyzes resumes and provides meaningful feedback to improve job readiness.
+### <a href="https://github.com/bindu-yogesh/CareerPilotAI">CareerPilotAI</a>
 
-`AI` `React` `JavaScript`
+An Android-based career assistance application designed to help users with career preparation, resume-related workflows, and AI-powered features.
 
----
+**Tech:** Kotlin • Jetpack Compose • Node.js • TypeScript • MongoDB
 
-### 🌾 Kisan Suvidha
+</td>
 
-A technology platform designed to provide useful digital assistance and information for farmers.
+<td width="50%">
 
-`React` `JavaScript` `Backend APIs`
+### <a href="https://github.com/bindu-yogesh/kisan-suvidha">Kisan Suvidha</a>
 
-----
+A platform designed to provide useful information and digital assistance for farmers through a simple and accessible interface.
 
-### 🔗 Lynk
+**Tech:** JavaScript • APIs • Web Development
 
-A multilingual Android speech-to-speech application enabling real-time communication across Indian languages using Wi-Fi or Bluetooth.
+</td>
 
-`Kotlin` `Android` `STT` `TTS`
+</tr>
 
----
+<tr>
+<td width="50%">
 
-### 📅 EventIQ
+### <a href="https://github.com/bindu-yogesh/AI-interview-simulator">AI Interview Simulator</a>
 
-An event management application focused on simplifying event planning, organization, and participation.
+An AI-powered interview practice application designed to help users prepare for technical and career-oriented interviews.
 
-`React` `JavaScript` `Backend`
+**Tech:** JavaScript • AI • APIs • Web Development
 
----
+</td>
 
-### ♟️ Chess Game
+<td width="50%">
 
-A browser-based chess application built to explore game logic, interactive interfaces, and frontend development.
+### Expense Tracker
 
-`HTML` `CSS` `JavaScript`
+An Android expense management application focused on tracking spending, budgeting, recurring expenses, and financial insights.
 
----
+**Tech:** Kotlin • Jetpack Compose • Room • ViewModel • WorkManager
 
-## Problem Solving
+</td>
+</tr>
 
-I regularly practice **Data Structures & Algorithms** and problem-solving patterns.
+<tr>
+<td width="50%">
 
-### 200+ LeetCode Problems Solved
+### <a href="https://leetcode-pattern-tracker-sable.vercel.app/">LeetCode Pattern Tracker</a>
 
-`Arrays` · `Strings` · `Two Pointers` · `Hashing` · `Stacks` · `Binary Search` · `Sorting` · `Greedy`
+A tool for tracking and organizing LeetCode problem-solving progress across different DSA patterns.
 
-[View my LeetCode →](https://leetcode.com/u/binduyogesh/)
+**Tech:** JavaScript • React • Web Development
+
+</td>
+
+<td width="50%">
+
+### Chess Game</a>
+
+A browser-based chess application built to practice frontend development, game logic, and interactive UI implementation.
+
+**Tech:** JavaScript • HTML • CSS
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Currently Learning
 
-* Data Structures & Algorithms
-* Backend Development
-* Operating Systems
-* Computer Networks
-* Database Management Systems
-* Artificial Intelligence & Machine Learning
-* Android Development with Kotlin
+<p align="center">
+
+`C++`   `Data Structures & Algorithms`   `Android Development`   `Backend Development`   `Operating Systems`   `AI/ML`
+
+</p>
+
+I'm currently focusing on strengthening my **problem-solving and software engineering fundamentals** while building projects across Android, backend development, and AI.
 
 ---
 
-## 2026 Goals.  
+## Problem Solving
 
-* Reach **500+ LeetCode problems**
-* Build impactful AI applications
-* Strengthen backend engineering
-* Contribute to open source
-* Build production-ready Android applications
-* Prepare for software engineering internships
+<p align="center">
+
+<a href="https://leetcode.com/u/binduyogesh/">
+  <img src="https://img.shields.io/badge/LeetCode-Bindu%20Yogesh-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<a href="https://github.com/bindu-yogesh/DSA">
+  <img src="https://img.shields.io/badge/DSA-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</a>
+
+</p>
+
+I regularly practice **Data Structures & Algorithms** and focus on understanding patterns, complexity, and efficient problem-solving.
 
 ---
 
-## Connect with me 
+## GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bindu-yogesh&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bindu-yogesh&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bindu-yogesh&theme=tokyonight" />
+</p>
+
+---
+
+## Connect With Me
+
+<p align="center">
 
 <a href="https://github.com/bindu-yogesh">
-<img src="https://img.shields.io/badge/GitHub-Bindu%20Yogesh-181717?style=flat-square&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/binduyogesh8317/">
-<img src="https://img.shields.io/badge/LinkedIn-Bindu%20Yogesh-6D28D9?style=flat-square&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/bindu-yogesh/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:binduyogesh8317@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-C084FC?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
+</p>
 
-<br><br>
+---
 
-<i>Code · Learn · Repeat</i>
+<p align="center">
+  <i>Keep learning. Keep building. Keep improving.</i>
+</p>
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:0D1117&height=100&section=footer"/>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
+</p>
