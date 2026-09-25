@@ -26,7 +26,7 @@ I am a **Computer Science Engineering student at Dayananda Sagar College of Engi
 * 🚀 Building real-world projects to strengthen my engineering skills
 * 🎯 Aspiring to become a **Software Engineer**
 
----
+--- 
 
 ## Tech Stack
 
