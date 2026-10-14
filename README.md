@@ -31,10 +31,18 @@ I am a **Computer Science Engineering student at Dayananda Sagar College of Engi
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,kotlin,java,html,css,js,ts,react,nodejs,express,mongodb,mysql,androidstudio,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,html,css,kotlin,androidstudio,fastapi,postgres,git,github,vscode" />
 </p>
 
----
+<!-- <p align="center">
+  <b>Languages:</b> C++ • C • Java • Python • JavaScript • HTML • CSS
+  <br/>
+  <b>Android:</b> Kotlin • Jetpack Compose • Android SDK • Room • WorkManager • Material 3 • Retrofit
+  <br/>
+  <b>Backend & Databases:</b> REST APIs • FastAPI • PostgreSQL
+  <br/>
+  <b>Developer Tools:</b> Git • GitHub • Android Studio • VS Code
+</p> -->
 
 ## Featured Projects
 
