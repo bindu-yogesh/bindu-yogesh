@@ -160,6 +160,17 @@ I regularly practice **Data Structures & Algorithms** and focus on understanding
 
 ---
 
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=bindu-yogesh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+---
+
+
 ## Connect With Me
 
 <p align="center">
