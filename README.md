@@ -14,6 +14,9 @@
 
 ---
 
+
+
+
 ## About Me
 
 I am a **Computer Science Engineering student at Dayananda Sagar College of Engineering (DSCE), Bangalore**, passionate about software development, problem-solving, and building practical applications.
