@@ -3,9 +3,11 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:6C63FF,100:a78bfa&height=220&section=header&text=Bindu%20Yogesh&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Backend%20Development%20%7C%20AI%2FML%20%7C%20Problem%20Solving&descSize=17&descAlignY=57&animation=fadeIn" width="100%" alt="Header"/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=Computer+Science+Student+%40+DSCE;Building+Backend+Applications;Exploring+Machine+Learning+%26+AI;250%2B+LeetCode+Problems+Solved;Turning+Ideas+Into+Working+Software" alt="Typing animation"/>
 
 <br/>
+
 <a href="https://www.linkedin.com/in/bindu-yogesh/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://leetcode.com/u/binduyogesh/"><img src="https://img.shields.io/badge/LeetCode-binduyogesh-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="mailto:binduyogesh70199@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -14,6 +16,7 @@
 </div>
 
 ---
+
 ## 👩‍💻 About Me
 
 I'm a Computer Science undergraduate at **Dayananda Sagar College of Engineering** who enjoys building reliable backend systems and adding intelligence to them with machine learning.
